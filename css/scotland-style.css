@@ -1,0 +1,94 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:'100%';
+	background-color:white;
+	margin-left:0;
+	margin-right:0;
+}
+.navbar {
+    background-color: transparent;
+}
+.top-nav-collapse {
+    background-color: #7ac1cd;
+}
+.intro-2 {
+    background: url('')no-repeat center center;
+    background-size: cover;
+}
+.hm-gradient .full-bg-img {
+    background: -moz-linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(29, 210, 177, 0.6) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(29, 210, 177, 0.6) 100%);
+    background: -webkit-gradient(linear, 45deg, from(rgba(42, 27, 161, 0.6)), to(rgba(29, 210, 177, 0.6)));
+    background: -o-linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(29, 210, 177, 0.6) 100%);
+    background: linear-gradient(to 45deg, rgba(42, 27, 161, 0.6), rgba(29, 210, 177, 0.6) 100%); 
+}
+.h1-responsive{
+	font-size: 400%;
+
+	color:#2a363b;
+}
+.images{
+    padding-top: 5%;
+}
+footer{
+    width: 100%;
+    background-color: #7f7ac7;
+}
+@media (max-width: 450px) {
+    .margins {
+        margin-right: 1rem;
+        margin-left: 1rem;
+    } 
+    #ecosse{
+    width: 100%;
+    height: 40vh;
+    background-image:url('./../img/ecosse-m.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-size: 150%;
+    color: #7ac1cd;
+}
+   #angers{
+    width: 100%;
+    height: 40vh;
+    background-image:url('./../img/angers-m.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+    font-size: 150%;
+    color: #7ac1cd;
+}
+#paris{
+    width: 100%;
+    height: 40vh;
+    background-image:url('./../img/paris-m.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+    font-size: 150%;
+    color: #7ac1cd;
+}
+}
+@media (max-width: 740px) {
+    .full-height,
+    .full-height body,
+    .full-height header,
+    .full-height header .view {
+        height: 1040px; 
+    } 
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: transparent;
+    }
+    .top-nav-collapse {
+    background-color: #7ac1cd;
+
+}
+#presentation {
+        padding-top: 5%;
+	width: 100%;
+	height: 100vh;
+}
+
+
+

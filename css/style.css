@@ -1,0 +1,90 @@
+/* Your custom styles */
+body{
+    font-family: 'Heebo', sans-serif;
+	font-size:'100%';
+}
+.navbar {
+    background-color: transparent;
+}
+.top-nav-collapse {
+    background-color: #b67861;
+}
+.intro-2 {
+    background: fixed;
+}
+.hm-gradient .full-bg-img {
+    background: -moz-linear-gradient(-45deg, #9aa5af, #b67861 100%);
+    background: -webkit-linear-gradient(-45deg,#9aa5af,#e9c699 100%);
+    background: -webkit-gradient(linear, -45deg, from #ccc7bb, to #b67861));
+    background: -o-linear-gradient(-45deg, #e9c699,#e3a167 100%);
+    background: linear-gradient(to -45deg, #e3a167,#b67861 100%); 
+}
+.h1-responsive{
+	font-size: 500%;
+	color:#fef4e8;
+}
+h6{
+    font-size: 150%;
+}
+.view a{
+    color:white;
+}
+.view a:hover{
+    color:#9aa5af;
+}
+
+#about{
+    padding-top: 6%;
+    background-color: #CDD2D7;
+}
+.card{
+    margin-bottom: 8%;
+}
+#about p{
+    font-size: 120%;
+    text-align: justify;
+    color: #212121;
+}
+
+#portfolio{
+     background-color:#E6E3DD;
+
+}
+#portfolio a{
+    color:#3E4551;
+}
+
+#presentation{
+    padding-top: 2%;
+    height: 50%;
+    text-align: center;
+    font-size: 150%;
+    background-color: #F4E3CC;
+
+}
+#presentation p{
+    font-size: 90%; 
+    text-align: center;
+}
+#skills{
+    background-color: #F1D0B3;
+}
+#skills h1{
+    text-align: center;
+}
+#skills img{
+    width: 50%;
+    padding-bottom: 5%; 
+}
+
+footer.page-footer {
+    margin-top: 0px;
+    padding-top: 0px; 
+     background-color: #DBBCB0;
+}
+
+
+
+
+
+
