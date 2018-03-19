@@ -22,8 +22,7 @@ body{
     background: linear-gradient(to -45deg, #e3a167,#b67861 100%); 
 }
 .h1-responsive{
-	font-size: 450%;
-	color:#fef4e8;
+	font-size: 500%;
 }
 h6{
     font-size: 150%;
@@ -37,7 +36,7 @@ h6{
 
 #about{
     padding-top: 5%;
-    background-color:#fef4e8;
+    background-color:#f4e3cc;
     
 }
 #about p{
@@ -60,13 +59,13 @@ h6{
      background-color:#353535;
 }
 #portfolio a{
-    color:#fef4e8;
+    color:#f4e3cc;
 }
 .nav-item:hover{
     background-color: #212121;
 }
 #portfolio h1{
-    color: #fef4e8;
+    color: #f4e3cc;
 }
 
 #presentation{
@@ -88,7 +87,7 @@ h6{
 }
 #skills h1{
     text-align: center;
-    color: #fef4e8;
+    color: #f4e3cc;
 }
 #skills img{
     width: 50%;
